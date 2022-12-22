@@ -1,0 +1,1177 @@
+{
+    "datas": [{
+            "key": "Patinhos",
+            "answers": [
+                "O que o pato disse para a pata?"
+            ],
+            "result": [
+                "Vem Qua!"
+            ]
+        },
+
+        {
+            "key": "Alo?",
+            "answers": [
+                "Porque o menino estava falando ao telefone deitado?"
+            ],
+            "result": [
+                "Para nao cair a ligacao."
+            ]
+        },
+
+
+        {
+            "key": "Amem",
+            "answers": [
+                "Qual e a formula da agua benta?"
+            ],
+            "result": [
+                " H Deus O!"
+            ]
+        },
+
+        {
+            "key": "O pintinho e a mae",
+            "answers": [
+                "O que o pintinho falou para a mae dele?"
+            ],
+            "result": [
+                "Oi, mae!"
+            ]
+        },
+
+        {
+            "key": "App de carros",
+            "answers": [
+                "Qual e a cidade brasileira que nao tem taxi?"
+            ],
+            "result": [
+                "Uberlandia."
+            ]
+        },
+
+        {
+            "key": "App de carros",
+            "answers": [
+                "Qual e a cidade brasileira que nao tem taxi?"
+            ],
+            "result": [
+                "Uberlandia."
+            ]
+        },
+
+        {
+            "key": "Love is in the Air",
+            "answers": [
+                "O que o tijolo falou para o outro?"
+            ],
+            "result": [
+                "Ha um ciumento entre nos."
+            ]
+        },
+
+        {
+            "key": "Boletim escolar",
+            "answers": [
+                "Porque o jacare tirou o filho da escola?"
+            ],
+            "result": [
+                "Porque ele reptil de ano."
+            ]
+        },
+
+        {
+            "key": "Alo, Batman?",
+            "answers": [
+                "Porque o Batman colocou o Bat-movel no seguro?"
+            ],
+            "result": [
+                "Porque ele tem medo que Robin!"
+            ]
+        },
+
+        {
+            "key": "Vo do role!",
+            "answers": [
+                "Quem e a vo dos trigos?"
+            ],
+            "result": [
+                "Aveia Quacker!"
+            ]
+        },
+
+        {
+            "key": "bencao!",
+            "answers": [
+                "Qual e o alimento mais sagrado que existe?"
+            ],
+            "result": [
+                "O amem doim."
+            ]
+        },
+
+        {
+            "key": "horas",
+            "answers": [
+                "quando voces abrem?"
+            ],
+            "result": [
+                "24 horas"
+            ]
+        },
+
+        {
+            "key": "Nada de bebes",
+            "answers": [
+                "Por que o radio nao pode ter filhos?"
+            ],
+            "result": [
+                "Porque ele e estereo."
+            ]
+        },
+
+        {
+            "key": "Higienico",
+            "answers": [
+                "Por que o policial nao usa sabao?"
+            ],
+            "result": [
+                "Porque ele prefere deter gente."
+            ]
+        },
+
+        {
+            "key": "Para os fas de Beatles",
+            "answers": [
+                "O que o padeiro falou para o John Lennon?"
+            ],
+            "result": [
+                "O sonho acabou."
+            ]
+        },
+
+        {
+            "key": "Silencio",
+            "answers": [
+                "Por que a planta nao responde?"
+            ],
+            "result": [
+                "Porque ela e mudinha."
+            ]
+        },
+
+        {
+            "key": "Trem maluco",
+            "answers": [
+                "Qual a fruta que anda de trem?"
+            ],
+            "result": [
+                "O kiwiiiii."
+            ]
+        },
+
+        {
+            "key": "Para os fas de animes e mangas",
+            "answers": [
+                "O que e um astrologo andando a cavalo?"
+            ],
+            "result": [
+                "Um Cavaleiro do Zodiaco."
+            ]
+        },
+
+        {
+            "key": "Iguaria da culinaria",
+            "answers": [
+                "Como se faz omelete de chocolate?"
+            ],
+            "result": [
+                "Com ovos de pascoa."
+            ]
+        },
+
+        {
+            "key": "Piadas cientificas",
+            "answers": [
+                "O que um cromossomo falou para o outro?"
+            ],
+            "result": [
+                "Cromossomos bonitos!"
+            ]
+        },
+
+        {
+            "key": "Voando",
+            "answers": [
+                "O que e um pontinho preto no aviao?"
+            ],
+            "result": [
+                "Uma aeromosca."
+            ]
+        },
+
+        {
+            "key": "A internet do mineiro",
+            "answers": [
+                "Como que o mineiro usa a internet?"
+            ],
+            "result": [
+                "Pelo UAI-fai"
+            ]
+        },
+
+        {
+            "key": "Eita",
+            "answers": [
+                "Qual e a galinha que cai no chao e surta?"
+            ],
+            "result": [
+                "A galinha cai i pira."
+            ]
+        },
+
+        {
+            "key": "Tudo bom, Batman?",
+            "answers": [
+                "Como o Batman faz para entrar na Bat-caverna?"
+            ],
+            "result": [
+                "Ele bat-palma."
+            ]
+        },
+
+        {
+            "key": "Laguinho e Padaria",
+            "answers": [
+                "Qual e a diferenca do lago e da padaria?"
+            ],
+            "result": [
+                "No lago ha sapinho e na padaria assa pao."
+            ]
+        },
+
+        {
+            "key": "Opa, caiu!",
+            "answers": [
+                "Qual e o melhor tratamento para pessoas que sofrem de queda constante?"
+            ],
+            "result": [
+                "Para-quedismo."
+            ]
+        },
+
+        {
+            "key": "idade",
+            "answers": [
+                "quantos anos",
+                "quantos anos vc tem?",
+                "qual e sua idade?",
+                "idade?"
+            ],
+            "result": [
+                "Eu tenho 21 anos",
+                "21 anos"
+            ]
+        },
+
+        {
+            "key": "Afundou",
+            "answers": [
+                "Um tenis foi jogado ao mar e afundou. Qual o nome do filme?"
+            ],
+            "result": [
+                "Titanike."
+            ]
+        },
+
+        {
+            "key": "Doguinho perdido",
+            "answers": [
+                "Um menino tinha um cachorro chamado Tido e ele dormia em um cesto. Um dia, o cachorrinho fugiu, qual e o nome do filme?"
+            ],
+            "result": [
+                "O Cesto sem Tido."
+            ]
+        },
+
+        {
+            "key": "Tchau, Hulk",
+            "answers": [
+                "Por que a mulher do Hulk se divorciou dele?"
+            ],
+            "result": [
+                "Porque ela queria um homem mais maduro"
+            ]
+        },
+
+        {
+            "key": "Construindo",
+            "answers": [
+                "Qual e o tio da construcao?"
+            ],
+            "result": [
+                "O Tio Jolo"
+            ]
+        },
+
+        {
+            "key": "Alcool",
+            "answers": [
+                "O que um alcool disse para outro alcool?"
+            ],
+            "result": [
+                "Etanois!"
+            ]
+        },
+
+        {
+            "key": "Pulou!",
+            "answers": [
+                "O que e uma pulga do lado de uma letra A?"
+            ],
+            "result": [
+                "Um A saltante.!"
+            ]
+        },
+
+        {
+            "key": "Frangos",
+            "answers": [
+                "O que o advogado do frango foi fazer na delegacia?"
+            ],
+            "result": [
+                "Foi soltar a franga!"
+            ]
+        },
+
+        {
+            "key": "Piadas matematicas",
+            "answers": [
+                "Um triangulo estava voando e o outro nao. Por que?"
+            ],
+            "result": [
+                "Porque um deles era uma asa delta."
+            ]
+        },
+
+        {
+            "key": "Cachorros e predios",
+            "answers": [
+                "Que raca de cachorro pula mais alto que um predio?"
+            ],
+            "result": [
+                "Qualquer uma, porque predio nao pula."
+            ]
+        },
+
+        {
+            "key": "Soneca",
+            "answers": [
+                "Como que o Batman dorme?"
+            ],
+            "result": [
+                "De bruce!"
+            ]
+        },
+
+        {
+            "key": "Problema de comunicacao",
+            "answers": [
+                "Por que o pao nao entende a batata?"
+            ],
+            "result": [
+                "Porque o pao e frances e a batata e inglesa"
+            ]
+        },
+
+        {
+            "key": "Astronomos, essa e para voces!",
+            "answers": [
+                "Por que as estrelas nao podem ser gatos?"
+            ],
+            "result": [
+                "Porque astro nao mia"
+            ]
+        },
+
+        {
+            "key": "Coalas",
+            "answers": [
+                "Porque coalas nao sao ursos de verdade?"
+            ],
+            "result": [
+                "Porque eles nao tem coalaificacao."
+            ]
+        },
+
+        {
+            "key": "Ih, rapaz?",
+            "answers": [
+                "O que a zebra disse para a mosca?"
+            ],
+            "result": [
+                "Voce esta na minha listra negra"
+            ]
+        },
+
+        {
+            "key": "Dancando",
+            "answers": [
+                "Quem sao as dancarinas do Diabo?"
+            ],
+            "result": [
+                "As Diabetes."
+            ]
+        },
+
+        {
+            "key": "Vamos nadar",
+            "answers": [
+                "Sabe por que o rapaz jogou o computador no mar?"
+            ],
+            "result": [
+                "Para ele navegar na internet!"
+            ]
+        },
+
+        {
+            "key": "Internacional",
+            "answers": [
+                "Por que na Argentina as vacas vivem olhando para o ceu?"
+            ],
+            "result": [
+                "Porque tem boi nos ares!"
+            ]
+        },
+
+        {
+            "key": "Aquela do leite",
+            "answers": [
+                "Dois litros de leite atravessaram a rua e foram atropelados. Um morreu, o outro nao. Por que?"
+            ],
+            "result": [
+                "Porque um deles era leite longa vida!"
+            ]
+        },
+
+        {
+            "key": "Dora, a aventureira",
+            "answers": [
+                "Por que a Dora aventureira aprendeu capoeira?"
+            ],
+            "result": [
+                "Para ela dar uma voa-Dora."
+            ]
+        },
+
+        {
+            "key": "Passarinhos",
+            "answers": [
+                "O que tem 4 patas e voa?"
+            ],
+            "result": [
+                "Um casal de passarinhos"
+            ]
+        },
+
+        {
+            "key": "Saudades, Nemo",
+            "answers": [
+                "O que o tubarao disse quando comeu o peixe-palhaco?"
+            ],
+            "result": [
+                "Que gosto engracado!"
+            ]
+        },
+
+        {
+            "key": "Bu!",
+            "answers": [
+                "Por que o fantasma entrou no elevador?"
+            ],
+            "result": [
+                "Para elevar o espirito."
+            ]
+        },
+
+        {
+            "key": "Esta servido?",
+            "answers": [
+                "O que o prato disse para o outro?"
+            ],
+            "result": [
+                "Esta noite, o jantar e comigo!"
+            ]
+        },
+
+        {
+            "key": "E o meu numero",
+            "answers": [
+                "O que o zero disse para o oito?"
+            ],
+            "result": [
+                "Belo cinto!"
+            ]
+        },
+
+        {
+            "key": "Uma fria",
+            "answers": [
+                "Onde os ursos polares guardam o seu dinheiro?"
+            ],
+            "result": [
+                "Em um banco de neve."
+            ]
+        },
+
+        {
+            "key": "Carga pesada",
+            "answers": [
+                "Por que os eletrons nunca sao convidados para festas?"
+            ],
+            "result": [
+                "Porque eles sao muito negativos."
+            ]
+        },
+
+        {
+            "key": "De outro mundo",
+            "answers": [
+                "O que pediu o astronauta claustrofobico?"
+            ],
+            "result": [
+                "Um pouco de espaco."
+            ]
+        },
+
+        {
+            "key": "Sangue",
+            "answers": [
+                "Normalmente, quantos litros de sangue uma pessoa tem? Em media, quantos sao retirados numa doacao de sangue?"
+            ],
+            "result": [
+                "Entre 4 a 6 litros. Sao retirados 450 mililitros"
+            ]
+        },
+
+        {
+            "key": "frase",
+            "answers": [
+                "De quem e a famosa frase ?Penso, logo existo??"
+            ],
+            "result": [
+                "Descartes."
+            ]
+        },
+
+        {
+            "key": "chuveiro",
+            "answers": [
+                "De onde e a invencao do chuveiro eletrico?"
+            ],
+            "result": [
+                "Brasil."
+            ]
+        },
+
+        {
+            "key": "pais",
+            "answers": [
+                "Quais o menor e o maior pais do mundo?"
+            ],
+            "result": [
+                "Vaticano e Russia."
+            ]
+        },
+
+        {
+            "key": "pais",
+            "answers": [
+                "Quais o menor e o maior pais do mundo?"
+            ],
+            "result": [
+                "Vaticano e Russia."
+            ]
+        },
+
+        {
+            "key": "presidente",
+            "answers": [
+                "Qual o nome do presidente do Brasil que ficou conhecido como Jango?"
+            ],
+            "result": [
+                "Joao Goulart."
+            ]
+        },
+
+        {
+            "key": "livro",
+            "answers": [
+                "Qual o livro mais vendido no mundo a seguir a Biblia?"
+            ],
+            "result": [
+                "Dom Quixote."
+            ]
+        },
+
+        {
+            "key": "pi",
+            "answers": [
+                "Quantas casas decimais tem o numero pi?"
+            ],
+            "result": [
+                "Infinitas."
+            ]
+        },
+
+        {
+            "key": "tabela periodica",
+            "answers": [
+                "Atualmente, quantos elementos quimicos a tabela periodica possui?"
+            ],
+            "result": [
+                "118."
+            ]
+        },
+
+        {
+            "key": "expectativa de vida",
+            "answers": [
+                "Quais os paises que tem a maior e a menor expectativa de vida do mundo?"
+            ],
+            "result": [
+                "Japao e Serra Leoa."
+            ]
+        },
+
+        {
+            "key": "numero minimo futebol",
+            "answers": [
+                "Qual o numero minimo de jogadores em cada time numa partida de futebol?"
+            ],
+            "result": [
+                "7"
+            ]
+        },
+
+        {
+            "key": "Guernica",
+            "answers": [
+                "Quem pintou Guernica?"
+            ],
+            "result": [
+                "Pablo Picasso."
+            ]
+        },
+
+        {
+            "key": "Sol",
+            "answers": [
+                "Quanto tempo a luz do Sol demora para chegar a Terra?"
+            ],
+            "result": [
+                "8 minutos."
+            ]
+        },
+
+        {
+            "key": "CheGuevara",
+            "answers": [
+                "Qual a nacionalidade de Che Guevara?"
+            ],
+            "result": [
+                "Argentina."
+            ]
+        },
+
+        {
+            "key": "personagens",
+            "answers": [
+                "Qual personagem folclorico costuma ser agradado pelos cacadores com a oferta de fumo?"
+            ],
+            "result": [
+                "Caipora."
+            ]
+        },
+
+        {
+            "key": "pre-historia",
+            "answers": [
+                "Em que periodo da pre-historia o fogo foi descoberto?"
+            ],
+            "result": [
+                "aleolitico."
+            ]
+        },
+
+        {
+            "key": "montanha",
+            "answers": [
+                "Qual a montanha mais alta do Brasil?"
+            ],
+            "result": [
+                "Pico da Neblina."
+            ]
+        },
+
+        {
+            "key": "portugues",
+            "answers": [
+                "Em qual local da Asia o portugues e lingua oficial?"
+            ],
+            "result": [
+                "Macau."
+            ]
+        },
+
+        {
+            "key": "o principe",
+            "answers": [
+                "Quem e o autor de O Principe?"
+            ],
+            "result": [
+                "Maquiavel."
+            ]
+        },
+
+        {
+            "key": "origem",
+            "answers": [
+                "Qual foi o recurso utilizado inicialmente pelo homem para explicar a origem das coisas?"
+            ],
+            "result": [
+                "A Mitologia."
+            ]
+        },
+
+        {
+            "key": "aleijadinho",
+            "answers": [
+                "Qual era o nome de Aleijadinho?"
+            ],
+            "result": [
+                "Antonio Francisco Lisboa."
+            ]
+        },
+
+        {
+            "key": "deuses gregos",
+            "answers": [
+                "Jupiter e Plutao sao os correlatos romanos de quais deuses gregos?"
+            ],
+            "result": [
+                "Zeus e Hades."
+            ]
+        },
+
+        {
+            "key": "maior animal terrestre",
+            "answers": [
+                "Qual o maior animal terrestre?"
+            ],
+            "result": [
+                "Elefante africano."
+            ]
+        },
+
+        {
+            "key": "Martin Luther King",
+            "answers": [
+                "Qual o tema do famoso discurso Eu Tenho um Sonho, de Martin Luther King?"
+            ],
+            "result": [
+                "Igualdade das racas."
+            ]
+        },
+
+        {
+            "key": "Dama de ferro",
+            "answers": [
+                "Que lider mundial ficou conhecida como ?Dama de Ferro??"
+            ],
+            "result": [
+                "Margaret Thatcher."
+            ]
+        },
+
+        {
+            "key": "tres magos",
+            "answers": [
+                "Quais os nomes dos tres Reis Magos?"
+            ],
+            "result": [
+                "Belchior, Gaspar e Baltazar"
+            ]
+        },
+
+        {
+            "key": "principais heteronimos",
+            "answers": [
+                "Quais os principais heteronimos de Fernando Pessoa?"
+            ],
+            "result": [
+                "Alberto Caeiro, Ricardo Reis e Alvaro de Campos."
+            ]
+        },
+
+        {
+            "key": "religiao monoteista",
+            "answers": [
+                "Qual a religiao monoteista que conta com o maior numero de adeptos no mundo?"
+            ],
+            "result": [
+                "Cristianismo."
+            ]
+        },
+
+        {
+            "key": "cientista descobriu",
+            "answers": [
+                "Qual o nome do cientista que descobriu o processo de pasteurizacao e a vacina contra a raiva?"
+            ],
+            "result": [
+                "Louis Pasteur."
+            ]
+        },
+
+        {
+            "key": "tipos sanguineo",
+            "answers": [
+                "As pessoas de qual tipo sanguineo sao consideradas doadores universais?"
+            ],
+            "result": [
+                "Tipo O."
+            ]
+        },
+
+        {
+            "key": "cromossomos",
+            "answers": [
+                "Quais sao os cromossomos que determinam o sexo masculino?"
+            ],
+            "result": [
+                "Os Y."
+            ]
+        },
+
+        {
+            "key": "nome",
+            "answers": [
+                "como e seu nome?",
+                "como posso te chamar?",
+                "quem e voce?",
+                "qual seu nome?"
+            ],
+            "result": [
+                "voce pode me chamar de Neymar",
+                "eu sou o Neymar"
+            ]
+        },
+
+        {
+            "key": "sydney",
+            "answers": [
+                "Em que estado australiano fica situada a cidade de Sydney?"
+            ],
+            "result": [
+                "Nova Gales do Sul."
+            ]
+        },
+
+        {
+            "key": "Romulo e Remo",
+            "answers": [
+                "Quem amamentou os gemeos Romulo e Remo?"
+            ],
+            "result": [
+                "uma loba."
+            ]
+        },
+
+        {
+            "key": "famoso edificio frances",
+            "answers": [
+                "No exterior de que famoso edificio frances foi construida uma enorme piramide de vidro em 1989?"
+            ],
+            "result": [
+                "Museu do Louvre."
+            ]
+        },
+
+        {
+            "key": "vasos transportam sangue",
+            "answers": [
+                "Como se chamam os vasos que transportam sangue do coracao para a periferia do corpo?"
+            ],
+            "result": [
+                "arterias."
+            ]
+        },
+
+        {
+            "key": "animal gruguleja",
+            "answers": [
+                "Que animal gruguleja?"
+            ],
+            "result": [
+                "o peru."
+            ]
+        },
+
+        {
+            "key": "maior arquipelago",
+            "answers": [
+                "Qual e o maior arquipelago da Terra?"
+            ],
+            "result": [
+                "A Indonesia."
+            ]
+        },
+
+        {
+            "key": "substancia plantas",
+            "answers": [
+                "Que substancia e absorvida pelas plantas e expirada por todos os seres vivos?"
+            ],
+            "result": [
+                "dioxido de carbono."
+            ]
+        },
+
+        {
+            "key": "Madasgascar",
+            "answers": [
+                "Em que oceano fica Madagascar?"
+            ],
+            "result": [
+                "Oceano Indico."
+            ]
+        },
+
+        {
+            "key": "artista conhecido",
+            "answers": [
+                "Que artista e conhecido como um dos expoentes maximos do Ready-Mades?"
+            ],
+            "result": [
+                "Marcel Duchamp."
+            ]
+        },
+
+        {
+            "key": "peste bubonica?",
+            "answers": [
+                "Em que seculo o continente europeu foi devastado pela peste bubonica?"
+            ],
+            "result": [
+                "No seculo XIV."
+            ]
+        },
+
+        {
+            "key": "viveu",
+            "answers": [
+                "Quem viveu, segundo a Biblia, 969 anos?"
+            ],
+            "result": [
+                "Matusalem."
+            ]
+        },
+
+        {
+            "key": "Eco-92",
+            "answers": [
+                "Em que cidade ocorreu a Eco-92, a Conferencia das Nacoes Unidas sobre ambiente e desenvolvimento?"
+            ],
+            "result": [
+                "Rio de Janeiro."
+            ]
+        },
+
+        {
+            "key": "capela sistina",
+            "answers": [
+                "Quem pintou o teto da capela sistina?"
+            ],
+            "result": [
+                "Michelangelo."
+            ]
+        },
+
+        {
+            "key": "tragedia grega",
+            "answers": [
+                "Quem foi o criador da tragedia grega?"
+            ],
+            "result": [
+                "Esquilo."
+            ]
+        },
+
+        {
+            "key": "vocalista",
+            "answers": [
+                "Jim Morrison era vocalista de que grupo?"
+            ],
+            "result": [
+                "The Doors."
+            ]
+        },
+
+        {
+            "key": "apresentacao",
+            "answers": [
+                "ola",
+                "oi",
+                "hey",
+                "eai",
+                "bom dia",
+                "boa tarde",
+                "boa noite"
+            ],
+            "result": [
+                "Ola!",
+                "Eai",
+                "No que posso ajudar"
+            ]
+        },
+
+        {
+            "key": "adeus",
+            "answers": [
+                "te vejo depois",
+                "adeus",
+                "estou indo embora.",
+                "tenha um bom dia",
+                "tchau"
+            ],
+            "result": [
+                "ate mais",
+                "fale comigo mais tarde",
+                "adeus!"
+            ]
+        },
+
+        {
+            "key": "presidente brasil",
+            "answers": [
+                "Em que ano e quem foi eleito o primeiro presidente do Brasil?"
+            ],
+            "result": [
+                "Deodoro da Fonseca."
+            ]
+        },
+
+        {
+            "key": "Clarice Lispector",
+            "answers": [
+                "Em que pais nasceu Clarice Lispector?"
+            ],
+            "result": [
+                "Ucrania."
+            ]
+        },
+
+        {
+            "key": "filantropo",
+            "answers": [
+                "O que e filantropo?"
+            ],
+            "result": [
+                "Pessoa que pratica a caridade."
+            ]
+        },
+
+        {
+            "key": "acidente aereo",
+            "answers": [
+                "Em que ano e onde aconteceu o maior acidente aereo da historia do Brasil?"
+            ],
+            "result": [
+                "Ano 2007, em Sao Paulo."
+            ]
+        },
+
+        {
+            "key": "testes nucleares",
+            "answers": [
+                "Que pais tem realizado testes nucleares e, em 2017, ameacou principalmente os Estados Unidos da America?"
+            ],
+            "result": [
+                "Coreia do Norte."
+            ]
+        },
+
+        {
+            "key": "Brexit",
+            "answers": [
+                "O que e Brexit?"
+            ],
+            "result": [
+                "Saida do Reino Unido da Uniao Europeia."
+            ]
+        },
+        {
+            "key": "filmes",
+            "answers": [
+                "qual filme você tem para assistir?",
+                "filmes para assistir"
+            ],
+            "result": [
+                "Eu tenho: homem aranha, batman, velozes e furiosos and interstellar",
+                "homem aranha, batman, velozes e furiosos and interstellar"
+            ]
+        },
+        {
+            "key": "comida",
+            "answers": [
+                "estou com fome",
+                "o que tem para comer?",
+                "estou morrendo de fome",
+                "eu gostaria de comer"
+            ],
+            "result": [
+                "infelizmente nao tenho nada para voce comer",
+                "voce vai morrer de fome",
+                "nada."
+            ]
+        },
+        {
+            "key": "copa do mundo",
+            "answers": [
+                "qual pais vai ganhar a copa do mundo?",
+                "quem ganha a copa?",
+                "copa do mundo?"
+            ],
+            "result": [
+                "so tem uma resposta para sua pergunta: BRASIL",
+                "claro que e o brasil",
+                "BRASIL"
+            ]
+        },
+        {
+            "key": "melhor jogador",
+            "answers": [
+                "quem e o melhor jogador do mundo?",
+                "melhor jogador do mundo?"
+            ],
+            "result": [
+                "Neymar.",
+                "claro que e Neymar"
+            ]
+        },
+        {
+            "key": "cidade",
+            "answers": [
+                "de qual cidade voce e?",
+                "onde e sua cidade?",
+                "onde voce mora?",
+                "onde voce vive?"
+            ],
+            "result": [
+                "Campinas",
+                "MInha cidade e em campinas, sao paulo"
+            ]
+        }
+    ]
+}
